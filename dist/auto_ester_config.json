@@ -1,0 +1,20 @@
+{
+  "version": "3.0",
+  "speed": 0.01,
+  "dark_mode": false,
+  "keys": {
+    "start": "f11",
+    "stop": "f12",
+    "after1": "enter",
+    "after2": "enter+shift+tab",
+    "after3": ""
+  },
+  "boxes": {
+    "box1_enabled": true,
+    "box2_enabled": true,
+    "box3_enabled": false,
+    "box1_content": "\n\n\n",
+    "box2_content": "\n",
+    "box3_content": "\n\n"
+  }
+}
